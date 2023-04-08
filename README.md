@@ -21,7 +21,7 @@ Tested using GCC compiler as well as TURBOC3
 <h6>Steps :</h6>
 <h7>* Go to 
 
- https://developerinsider.co/downloading/?download=https://github.com/vineetchoudhary/turbocpp/releases/download/v3.2/Turbo.C.3.2.zip?raw=true&after=https://developerinsider.co/c-and-cpp-insider/ turbo c3
+ https://developerinsider.co/downloading/?download=https://github.com/vineetchoudhary/turbocpp/releases/download/v3.2/Turbo.C.3.2.zip?raw=true&after=https://developerinsider.co/c-and-cpp-insider/
 
  and download TURBOC3 or TURBOC++ editor for windows
 * Install TURBOC3 on your computer
