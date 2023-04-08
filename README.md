@@ -2,8 +2,8 @@
  
 <h1>C Program Files</h1>
 
-<h6>This is a collecton of C program files </h6>
-<h3>How to explore this Repository </h6>
+<h4>This is a collecton of C program files </h4>
+<h3>How to explore this Repository </h3>
 <h7>It's actually simple to explore this repository 
 * Go to <>Code section 
 * Open "first 100 Programs" folder
@@ -14,12 +14,16 @@ All of the codes are Tested and were working properly
 Tested using GCC compiler as well as TURBOC3
 </h7>
 
-<h5>How to Set up TURBOC3</h5>
+<h4>How to Set up TURBOC3</h5>
 <h6>Requirements:</h6>
 <h7>* Working computer 
 </h7>
 <h6>Steps :</h6>
-<h7>* Go to .......................................... and download TURBOC3 or TURBOC++ editor for windows
+<h7>* Go to 
+
+ https://developerinsider.co/downloading/?download=https://github.com/vineetchoudhary/turbocpp/releases/download/v3.2/Turbo.C.3.2.zip?raw=true&after=https://developerinsider.co/c-and-cpp-insider/ turbo c3
+
+ and download TURBOC3 or TURBOC++ editor for windows
 * Install TURBOC3 on your computer
 * Open TURBOC3 
 * Turboc3 is a Command lane based software hence once you enter you won't be able to see your cursor but a BLACK BLOCK sometimes it won't even support mouse hence use keyboard to navigate
@@ -41,5 +45,6 @@ If you had not got a command prompt or had got a bunch of errors feel free to co
 <h6>Requirements:
 * Working PC 
 * Visual Studio Code editor 
-
+* TDM-GCC compiler
 </h6>
+<>
